@@ -1,3 +1,8 @@
+<img src="https://raw.githubusercontent.com/hasansiddiqui1299/hasansiddiqui1299/69b4ae391c0714634f62d60a4e1c25665354bccc/IMG-20250913-WA0005.jpg" width="900px" height="290px" alt="Banner" style="display:block; margin:auto;" />
+
+
+
+
 <h1 align="center">Hi 👋, I'm Hasan Siddiqui</h1>
 <h3 align="center">DevOps Engineer | IT Operations Specialist | Software Engineer</h3>
 
