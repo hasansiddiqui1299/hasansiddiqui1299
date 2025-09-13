@@ -40,9 +40,3 @@
 [![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/hasan-siddiqui-3b1193220)  [![Email](https://cdn-icons-png.flaticon.com/32/732/732200.png)](mailto:hasansiddiqui1299@gmail.com)
 
 
-
-----
-
-
-
----
