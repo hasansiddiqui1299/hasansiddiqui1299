@@ -41,7 +41,7 @@
 
 ### 🏆 GitHub Achievements & Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HasanSiddiqui&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-C,-B
 
 ---
 
